@@ -13,7 +13,7 @@ actually **claims** — built bottom-up from structured extraction over
   the remainder is a documented, adjudicated long tail
 - **Releases:** [Zenodo concept DOI 10.5281/zenodo.22759155](https://doi.org/10.5281/zenodo.22759155)
   (versioned; v0.2 = 10.5281/zenodo.23317587) · **BioPortal PDOSC**
-- **License:** CC BY-NC 4.0
+- **License:** CC BY 4.0 (changed from CC BY-NC 2026-11-01 — the vocabulary is meant for adoption; the OBO/BioPortal norm)
 
 ## Repository contents
 
